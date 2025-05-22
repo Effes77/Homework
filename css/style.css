@@ -163,24 +163,24 @@ footer {
     display: flex;
     justify-content: space-between;
     padding-bottom: 230px;
-    background: url(/img/Image_student.png) 100% 120% no-repeat,
-    url(/img/background_rectangle_purple.png) 88.5% 100% no-repeat,
-    url(/img/background_eclipse_blue.png) 95% 50% no-repeat;
+    background: url(img/Image_student.png) 100% 120% no-repeat,
+    url(img/background_rectangle_purple.png) 88.5% 100% no-repeat,
+    url(img/background_eclipse_blue.png) 95% 50% no-repeat;
     padding-left: 140px;
 
     @media screen and (max-width: 480px) {
         padding-left: 0;
         padding-bottom: 750px;
-        background: url(/img/Image_student.png) 80% 110% no-repeat,
-    url(/img/background_rectangle_purple.png) 88.5% 100% no-repeat,
-    url(/img/background_eclipse_blue.png) 95% 50% no-repeat;
+        background: url(img/Image_student.png) 80% 110% no-repeat,
+    url(img/background_rectangle_purple.png) 88.5% 100% no-repeat,
+    url(img/background_eclipse_blue.png) 95% 50% no-repeat;
     }
 }
 
 .offer__holder {
     width: 648px;
     padding-top: 80px;
-    background: url(../img/background_eclipse_violet.png) 100% 100% no-repeat;
+    background: url(img/background_eclipse_violet.png) 100% 100% no-repeat;
 
     @media screen and (max-width: 480px) {
         padding-top: 40px;
